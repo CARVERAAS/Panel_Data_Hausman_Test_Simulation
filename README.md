@@ -11,4 +11,3 @@ I generate the explanatory variable x as the sum of a between (or cross–sectio
 
 
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=x_%7Bit%7D%20%3D%20%20%5Cxi_i%20%2B%20%5Cxi_%7Bit%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="x_{it} =  \xi_i + \xi_{it}" width="101" height="19" />
