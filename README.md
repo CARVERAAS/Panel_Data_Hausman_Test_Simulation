@@ -1,12 +1,6 @@
----
-title: "Panel Data Hausman Test Monte Carlo Simulation"
-author: "Carlos Brás"
-date: "16 juillet 2018"
-output: html_document
----
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+ # Panel Data Hausman Test Monte Carlo Simulation
+ ## 1 - DGP of the Variable X
+
 
 
 
