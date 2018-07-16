@@ -3,4 +3,4 @@ Trough a Monte Carlo simulation study I try to investigate the performance under
 
 1 - DGP of the Variable X
 
-We generate the explanatory variable X as the sum of a between (or cross–sectional or permanent) component http://mathurl.com/y9d4sy7l
+We generate the explanatory variable X as the sum of a between (or cross–sectional or permanent) component \xi_{i}
